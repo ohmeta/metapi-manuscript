@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/ohmeta/metapi-manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://ohmeta.github.io/metapi-manuscript/>.
-The permalink for this webpage version is <https://ohmeta.github.io/metapi-manuscript/v/43303b789ddc58263841cf287e6b1a3eb3df2354/>.
+The permalink for this webpage version is <https://ohmeta.github.io/metapi-manuscript/v/5e659954cba5eb4470a97f82cd025d67f056b285/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://ohmeta.github.io/metapi-manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`43303b789ddc58263841cf287e6b1a3eb3df2354`](https://github.com/ohmeta/metapi-manuscript/commit/43303b789ddc58263841cf287e6b1a3eb3df2354).
+[`5e659954cba5eb4470a97f82cd025d67f056b285`](https://github.com/ohmeta/metapi-manuscript/commit/5e659954cba5eb4470a97f82cd025d67f056b285).
