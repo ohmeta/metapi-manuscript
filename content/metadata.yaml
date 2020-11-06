@@ -1,26 +1,23 @@
 ---
-title: "Manuscript Title"
+title: "metapi: A genereal metagenomics data mining system focus on robust microbiome research"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - metagenomics
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: alienzj
+    name: Jie Zhu
+    initials: JZ
+    orcid: 0000-0002-5789-6296
+    twitter: alienzj
+    email: zhujie@genomics.cn
     affiliations:
-      - Department of Something, University of Whatever
+      - BGI-SZ
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
+  - github: yangfangming
+    name: Fangming Yang
+    initials: FY
     orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    email: yangfangming@genomics.cn
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - BGI-SZ
