@@ -1,7 +1,7 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Jie Zhu
+- Fangming Yang
 bibliography:
 - content/manual-references.json
 date-meta: '2020-11-06'
@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="metapi: A genereal metagenomics data mining system focus on robust microbiome research" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="metapi: A genereal metagenomics data mining system focus on robust microbiome research" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="metapi: A genereal metagenomics data mining system focus on robust microbiome research" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="metapi: A genereal metagenomics data mining system focus on robust microbiome research" />
 
   <meta name="dc.date" content="2020-11-06" />
 
@@ -39,19 +39,17 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Jie Zhu" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="BGI-SZ" />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_orcid" content="0000-0002-5789-6296" />
 
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="twitter:creator" content="@alienzj" />
 
-  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author" content="Fangming Yang" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_institution" content="BGI-SZ" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
@@ -67,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://ohmeta.github.io/metapi-manuscript/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://ohmeta.github.io/metapi-manuscript/v/43303b789ddc58263841cf287e6b1a3eb3df2354/" />
+  <link rel="alternate" type="text/html" href="https://ohmeta.github.io/metapi-manuscript/v/5e659954cba5eb4470a97f82cd025d67f056b285/" />
 
-  <meta name="manubot_html_url_versioned" content="https://ohmeta.github.io/metapi-manuscript/v/43303b789ddc58263841cf287e6b1a3eb3df2354/" />
+  <meta name="manubot_html_url_versioned" content="https://ohmeta.github.io/metapi-manuscript/v/5e659954cba5eb4470a97f82cd025d67f056b285/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://ohmeta.github.io/metapi-manuscript/v/43303b789ddc58263841cf287e6b1a3eb3df2354/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://ohmeta.github.io/metapi-manuscript/v/5e659954cba5eb4470a97f82cd025d67f056b285/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +83,13 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- markdown
-- publishing
-- manubot
+- metagenomics
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: 'metapi: A genereal metagenomics data mining system focus on robust microbiome research'
 ...
 
 
@@ -103,9 +99,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://ohmeta.github.io/metapi-manuscript/v/43303b789ddc58263841cf287e6b1a3eb3df2354/))
+([permalink](https://ohmeta.github.io/metapi-manuscript/v/5e659954cba5eb4470a97f82cd025d67f056b285/))
 was automatically generated
-from [ohmeta/metapi-manuscript@43303b7](https://github.com/ohmeta/metapi-manuscript/tree/43303b789ddc58263841cf287e6b1a3eb3df2354)
+from [ohmeta/metapi-manuscript@5e65995](https://github.com/ohmeta/metapi-manuscript/tree/5e659954cba5eb4470a97f82cd025d67f056b285)
 on November 6, 2020.
 </em></small>
 
@@ -113,25 +109,25 @@ on November 6, 2020.
 
 
 
-+ **John Doe**<br>
++ **Jie Zhu**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-5789-6296](https://orcid.org/0000-0002-5789-6296)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [alienzj](https://github.com/alienzj)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [alienzj](https://twitter.com/alienzj)<br>
   <small>
-     Department of Something, University of Whatever
+     BGI-SZ
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**<br>
++ **Fangming Yang**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [yangfangming](https://github.com/yangfangming)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     BGI-SZ
   </small>
 
 
